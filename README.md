@@ -15,7 +15,4 @@ With ChicAI, never again will you repeat the same clothes and feel stuck in a fa
 
 <h4>App Developed By:</h4>
 Dylan Pereira
-Farham Khademi
-Gracia Betty Jebaraj Daniel
-Sharon Dsouza
 
