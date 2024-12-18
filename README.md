@@ -17,6 +17,7 @@ With ChicAI, never again will you repeat the same clothes and feel stuck in a fa
 Dylan Pereira
 <br/>
 Farham Khademi
-
+<br/>
+Sharon Dsouza
 
 
