@@ -12,3 +12,10 @@ ChicAI provides three outfit suggestions that consist of two outfits based on th
 Users can interact with a customized dashboard that not only offers outfit options, but also several features to mark clothes as “in laundry”, to keep track of what’s in rotation. They can save the outfits that they love and want to recreate or create their custom outfits to refer to at a later time.
 
 With ChicAI, never again will you repeat the same clothes and feel stuck in a fashion rut. Say goodbye to the frustrating "having a lot of clothes but no outfits" moments, and let ChicAI handle the hard work of styling you. It’s more than just an app, It’s a personal stylist in your pocket!
+
+<h4>App Developed By:</h4>
+Dylan Pereira
+Farham Khademi
+Gracia Betty Jebaraj Daniel
+Sharon Dsouza
+
