@@ -2,6 +2,7 @@
 
 <h2>Design</h2>
 Please refer to the link for more details <a href="https://www.figma.com/design/va9fmxwlI1FC69PtacQ9qk/Project?node-id=0-1&node-type=canvas&t=YkgrtFAY5zC3VXiR-0">Design Link</a>
+![image](https://github.com/user-attachments/assets/60e6fe20-08a7-45ae-9666-ee0962f5ab5f)
 
 <br/>
 
